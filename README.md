@@ -1,4 +1,8 @@
-# game-theory
+# game-theory  
+Идея пришла после просмотра одного из видео Veritasium в ютубе. Сделал сообственнуя симуляцию игры "Дилемма Заключенного" или же "Теория Игр".
+## How to use:  
+Download zip file or just clone this project and run Main.java  
+## Strategy in this project  
 Cooperator: Always cooperates.  
 Defector: Always defects.    
 TitForTat: Starts with cooperation, then mirrors the opponent's last move.  
