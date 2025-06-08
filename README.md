@@ -1,7 +1,8 @@
 # game-theory  
 Идея пришла после просмотра одного из видео Veritasium в ютубе. Сделал сообственнуя симуляцию игры "Дилемма Заключенного" или же "Теория Игр".
 ## How to use:  
-Download zip file or just clone this project and run Main.java  
+  Download zip file or just clone this project and run Main.java   
+### Result you can watch on this site:  [Game Theory results](https://eldar-05.github.io/game-theory-site/)  
 ## Strategy in this project  
 Cooperator: Always cooperates.  
 Defector: Always defects.    
@@ -13,4 +14,3 @@ Pavlov: Repeats its last move if it resulted in a "success" (both cooperated or 
 SoftMajority: Cooperates as long as opponent cooperations outnumber or equal defections.  
 HardMajority: Cooperates only if opponent cooperations strictly outnumber defections.  
 TitForTwoTats: Cooperates, but defects only if the opponent defects twice consecutively.  
-#Result you can watch on this site:[Game Theory results](https://eldar-05.github.io/game-theory-site/)
