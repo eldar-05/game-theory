@@ -1,5 +1,5 @@
 # game-theory  
-Идея пришла после просмотра одного из видео Veritasium в ютубе. Сделал сообственнуя симуляцию игры "Дилемма Заключенного" или же "Теория Игр".
+Идея пришла после просмотра одного из видео [Veritasium](https://www.youtube.com/watch?v=o-lFK7nZIKE) в ютубе. Сделал сообственнуя симуляцию игры "Дилемма Заключенного" или же "Теория Игр".
 ## How to use:  
   Download zip file or just clone this project and run Main.java   
 ### Result you can watch on this site:  [Game Theory results](https://eldar-05.github.io/game-theory-site/)  
